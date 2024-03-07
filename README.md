@@ -8,7 +8,8 @@ This project tracks SP500 stock prices and saves the data to a SQLite Database. 
 
 1. Design Architecture
 2. Design Database architecture
-2. Build script to extract, transform and load data
+3. Build script to extract, transform and load data
+4. Build dashboard to visualize data
 
 
 
@@ -17,4 +18,4 @@ This project tracks SP500 stock prices and saves the data to a SQLite Database. 
 
 - Python
 - SQLite
-- Apache Airflow
+- Falsk Dashboard
